@@ -1,0 +1,1094 @@
+{
+	"id": "297dde19-32af-4100-820b-2010b470ae9b",
+	"name": "DummyJSON_API",
+	"timestamp": "2025-01-30T07:20:39.711Z",
+	"collection_id": "41089263-0e8306c9-153c-4ef7-8831-32388362ee93",
+	"folder_id": 0,
+	"environment_id": "41089263-fa1d89c1-e4fc-4c3f-a9e5-4b8d6093d77c",
+	"totalPass": 416,
+	"delay": "20",
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-01-30T07:19:41.581Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "0d524426-253b-476c-834c-88271f1593f5",
+			"name": "LoginAutomatic",
+			"url": "https://dummyjson.com/auth/login",
+			"time": 153,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"AccessToken is not empty": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 208,
+					"fail": 0
+				},
+				"AccessToken is not empty": {
+					"pass": 208,
+					"fail": 0
+				}
+			},
+			"times": [
+				870,
+				235,
+				149,
+				197,
+				144,
+				186,
+				178,
+				229,
+				175,
+				145,
+				174,
+				215,
+				172,
+				181,
+				142,
+				136,
+				166,
+				140,
+				174,
+				156,
+				202,
+				149,
+				192,
+				141,
+				141,
+				145,
+				153,
+				154,
+				141,
+				156,
+				241,
+				208,
+				288,
+				144,
+				143,
+				144,
+				156,
+				138,
+				147,
+				152,
+				166,
+				166,
+				217,
+				147,
+				223,
+				173,
+				189,
+				155,
+				157,
+				172,
+				151,
+				143,
+				190,
+				174,
+				196,
+				145,
+				144,
+				162,
+				140,
+				137,
+				139,
+				144,
+				210,
+				157,
+				155,
+				173,
+				148,
+				150,
+				154,
+				157,
+				148,
+				142,
+				155,
+				147,
+				140,
+				136,
+				155,
+				139,
+				172,
+				153,
+				136,
+				148,
+				154,
+				143,
+				147,
+				159,
+				157,
+				140,
+				141,
+				146,
+				141,
+				141,
+				143,
+				145,
+				145,
+				147,
+				146,
+				143,
+				139,
+				140,
+				442,
+				156,
+				146,
+				165,
+				137,
+				140,
+				140,
+				144,
+				171,
+				148,
+				141,
+				145,
+				151,
+				165,
+				143,
+				150,
+				157,
+				140,
+				151,
+				152,
+				141,
+				142,
+				144,
+				156,
+				140,
+				156,
+				135,
+				149,
+				157,
+				142,
+				152,
+				138,
+				150,
+				171,
+				141,
+				147,
+				164,
+				143,
+				152,
+				149,
+				176,
+				138,
+				140,
+				141,
+				163,
+				143,
+				147,
+				153,
+				159,
+				158,
+				144,
+				146,
+				147,
+				139,
+				159,
+				140,
+				161,
+				138,
+				145,
+				244,
+				151,
+				140,
+				156,
+				147,
+				141,
+				161,
+				137,
+				151,
+				139,
+				141,
+				140,
+				150,
+				139,
+				142,
+				142,
+				144,
+				154,
+				142,
+				145,
+				143,
+				145,
+				140,
+				158,
+				159,
+				143,
+				144,
+				141,
+				157,
+				144,
+				142,
+				145,
+				142,
+				147,
+				171,
+				162,
+				138,
+				141,
+				142,
+				142,
+				143,
+				485,
+				146,
+				149,
+				157,
+				140,
+				143,
+				154,
+				153
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				},
+				{
+					"Status code is 200": true,
+					"AccessToken is not empty": true
+				}
+			]
+		}
+	],
+	"count": 208,
+	"totalTime": 33533,
+	"collection": {
+		"requests": [
+			{
+				"id": "0d524426-253b-476c-834c-88271f1593f5",
+				"method": "POST"
+			}
+		]
+	}
+}
